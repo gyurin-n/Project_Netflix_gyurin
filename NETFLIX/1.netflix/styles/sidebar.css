@@ -1,0 +1,21 @@
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.logo-container img {
+width: 100px;
+height: auto;
+margin-right: 10px;
+}
+
+.text-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.text-container div {
+    margin-right: 10px;
+}

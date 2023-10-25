@@ -1,0 +1,23 @@
+.main-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    column-gap: 16px;
+    row-gap: 40px;
+}
+
+.poster {
+    width: 100%;
+    height: auto;
+}
+
+.poster:hover {
+    transform: scale(1.5);
+    border: 2px solid #ff0000;
+}
